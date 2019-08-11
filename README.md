@@ -1,5 +1,5 @@
 # Форма регистрации
-[Адрес страницы проекта](https://github.com/snegmen/form)
+[Адрес страницы проекта](https://snegmen.github.io)
 
 ## Версия 0.0.2
 
